@@ -121,7 +121,7 @@ CREATE TABLE TableName (
     ColumnName datatype UNIQUE,
     ColumnName datatype UNIQUE,
 );
-
+ 
 
 CREATE TABLE TableName (
     ColumnName datatype,
