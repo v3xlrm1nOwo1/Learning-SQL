@@ -1274,11 +1274,3 @@ FROM Employee
 INNER JOIN Works_With ON Employee.emp_id = Works_With.emp_id
 GROUP BY Employee.emp_id
 ORDER BY COUNT(Works_With.client_id) DESC;
-
-
-
-
-
-
-
-
