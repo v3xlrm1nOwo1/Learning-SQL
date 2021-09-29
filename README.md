@@ -1,6 +1,7 @@
 # Learning-SQL
 
-#SQL #Database #MySQL
+git tag <SQL>
+
 Here I write everything I learn in SQL using MySQL
 Form:
   1- W3schools
